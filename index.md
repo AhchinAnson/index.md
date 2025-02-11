@@ -2,4 +2,4 @@
 Hi I am Anson
 
 ![Github Page](https://ahchinanson.github.io/index.md/)
-![An image](AF70DE57-65AF-4191-91BD-B1B0CA389F50.jpg)  
+![An image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png)  
